@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "サヨナラ",
+  "base_artist": "ベロティカ",
+  "createdAt": "2026-02-07T20:30:16.966095Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "サヨナラ・・・・・・FUJIさん",
+      "artist": "Masayoshi Takanaka",
+      "has_synced": true,
+      "path": "select/01_サヨナラ・・・・・・FUJIさん_Masayoshi_Takanaka.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "サヨナラ⋯⋯ Fuji さん",
+      "artist": "高中正義",
+      "has_synced": true,
+      "path": "select/02_サヨナラ⋯⋯_Fuji_さん_高中正義.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "サヨナラ (Album version)",
+      "artist": "スガシカオ",
+      "has_synced": false,
+      "path": "select/03_サヨナラ_(Album_version)_スガシカオ.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "サヨナラ...... Fuji さん",
+      "artist": "Masayoshi Takanaka",
+      "has_synced": false,
+      "path": "select/04_サヨナラ......_Fuji_さん_Masayoshi_Takanaka.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Sayonara, World's End [*サヨナラ、ワールドエンド。]",
+      "artist": "sasakure.UK",
+      "has_synced": false,
+      "path": "select/05_Sayonara,_World's_End_[_サヨナラ、ワールドエンド。]_sasakure.UK.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "サヨナラ Rolling Star (Yuri‘s Mixx)",
+      "artist": "micazo",
+      "has_synced": false,
+      "path": "select/06_サヨナラ_Rolling_Star_(Yuri‘s_Mixx)_micazo.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "サヨナラ...... Fuji さん",
+      "artist": "高中正義",
+      "has_synced": true,
+      "path": "select/07_サヨナラ......_Fuji_さん_高中正義.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "サヨナラ・・・FUJIさん",
+      "artist": "Masayoshi Takanaka",
+      "has_synced": true,
+      "path": "select/08_サヨナラ・・・FUJIさん_Masayoshi_Takanaka.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "サヨナラ・・・FUJIさん [Goodbye... Mr. Fuji]",
+      "artist": "高中正義 (Masayoshi Takanaka)",
+      "has_synced": true,
+      "path": "select/09_サヨナラ・・・FUJIさん_[Goodbye..._Mr._Fuji]_高中正義_(Masayoshi_Takanaka).lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "サヨナラ",
+      "artist": "GAO",
+      "has_synced": true,
+      "path": "select/10_サヨナラ_GAO.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "サヨナラ・・・FUJIさん",
+      "artist": "Masayoshi Takanaka (高中正義)",
+      "has_synced": true,
+      "path": "select/11_サヨナラ・・・FUJIさん_Masayoshi_Takanaka_(高中正義).lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "サヨナラ⋯⋯ Fuji さん",
+      "artist": "Masayoshi Takanaka",
+      "has_synced": true,
+      "path": "select/12_サヨナラ⋯⋯_Fuji_さん_Masayoshi_Takanaka.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "サヨナラ...... FUJI さん",
+      "artist": "Takanaka, Masayoshi",
+      "has_synced": true,
+      "path": "select/13_サヨナラ......_FUJI_さん_Takanaka,_Masayoshi.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "サヨナラ...... Fuji さん",
+      "artist": "高中 正義",
+      "has_synced": true,
+      "path": "select/14_サヨナラ......_Fuji_さん_高中_正義.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "サヨナラ",
+      "artist": "GAO",
+      "has_synced": true,
+      "path": "select/15_サヨナラ_GAO.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "始まるのは、サヨナラ",
+      "artist": "ON/OFF",
+      "has_synced": true,
+      "path": "select/16_始まるのは、サヨナラ_ON_OFF.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "サヨナラ…Fujiさん",
+      "artist": "Masayoshi Takanaka",
+      "has_synced": true,
+      "path": "select/17_サヨナラ...Fujiさん_Masayoshi_Takanaka.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "サヨナラ･････FUJIさん",
+      "artist": "Masayoshi Takanaka",
+      "has_synced": true,
+      "path": "select/18_サヨナラ・・・・・FUJIさん_Masayoshi_Takanaka.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "サヨナラ",
+      "artist": "ベロティカ",
+      "has_synced": false,
+      "path": "select/pl_01_サヨナラ_ベロティカ.txt"
+    }
+  ]
+}
